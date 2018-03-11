@@ -1,4 +1,4 @@
-# Developer Camp Awesome List :cupid:
+# Developer Camp Awesome List 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻
 
 Inspiriert von vielen anderen [awesome](https://github.com/sindresorhus/awesome) lists, entstanden im Rahmen des [Developer Camps](https://developercamp.io/) 2018 in Würzburg. Die Themen sind bunt gemischt und stellen persönliche Empfehlungen der Teilnehmer dar :+1:
 
